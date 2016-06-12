@@ -1,5 +1,5 @@
 # CodeAnalyzers
-Playground for roslyn based code analyzers
+A playground for roslyn based code analyzers
 
 ## DateTime analyzer
 
