@@ -11,4 +11,4 @@ This code analyzer enforces to use SystemTime.Now and Today instead of DateTime 
 
 It allows the code to be unit testable as you can define SystemTime.Now and Today and test code for different dates (simulate past and future)
 
-![alt tag](https://raw.githubusercontent.com/LetMeCodeThis/CodeAnalyzers/master/analyzers-images/DateTimeUnitTesting.gif)
+![alt tag](https://raw.githubusercontent.com/LetMeCodeThis/CodeAnalyzers/master/analyzers-images/DateTimeUnitTesting.png)
